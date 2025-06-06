@@ -92,6 +92,7 @@ styles.css	Custom layout and aesthetic styling
 
 
 
-📌 Author
+📌 Author; Damilola Ayeni
+
 This project was completed as part of the ALX Front-End Curriculum.
 
