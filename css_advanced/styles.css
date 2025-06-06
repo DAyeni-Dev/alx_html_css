@@ -230,4 +230,8 @@ footer {
 .social-icons a:hover {
   color: #c98ef3; /* optional hover effect */
 }
+.copy{
+    text-align: center;
+    opacity: 0.3;
+}
 
