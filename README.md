@@ -2,17 +2,7 @@
 css_basic – CSS Styling and Layout
 This project extends the previous HTML Basic project by applying CSS styling, implementing flexbox-based layouts, and enhancing responsive design. It includes structured positioning, improved accessibility, and responsive behavior to deliver a clean, user-friendly web experience.
 
- Directory Structure
-csharp
-Copy
-Edit
-alx_html_css/
-└── css_basic/
-    ├── index.html
-    ├── tweets.html
-    ├── base.css
-    └── styles.css
- Project Tasks Overview
+
 1. Basic Setup
 Created a new directory css_basic in the alx_html_css repository.
 
