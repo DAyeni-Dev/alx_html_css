@@ -1,0 +1,57 @@
+.results-code {
+  padding: 5rem 2rem;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.results-code h2 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  color: #111;
+}
+
+.results-code p {
+  font-size: 1rem;
+  color: #555;
+  max-width: 800px;
+  margin: 0 auto 3rem;
+  line-height: 1.6;
+}
+
+.stats {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 150px;
+}
+
+.pentagon {
+  width: 100px;
+  height: 100px;
+  background-color: #ff6565;
+  color: white;
+  font-weight: bold;
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+  margin-bottom: 1rem;
+  transition: transform 0.3s ease;
+}
+
+.pentagon:hover {
+  transform: scale(1.1);
+}
+
+.stat p {
+  font-size: 0.95rem;
+  color: #333;
+}
