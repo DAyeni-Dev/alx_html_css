@@ -4,9 +4,9 @@ This project extends the previous HTML Basic project by applying CSS styling, im
 
 
 1. Basic Setup
-Created a new directory css_basic in the alx_html_css repository.
+Created a new directory, css_basic, in the alx_html_css repository.
 
-Copied index.html and tweets.html from the previous html_basic project.
+Copied index.html and tweets.html from the previous HTML_basic project.
 
 Created two CSS files:
 
