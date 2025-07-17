@@ -1,4 +1,4 @@
-/* Header layout */
+
 .header {
   display: flex;
   justify-content: space-between;
@@ -11,7 +11,6 @@
   height: 40px;
 }
 
-/* Nav Links */
 .nav-links {
   display: flex;
   gap: 1.5rem;
@@ -23,7 +22,6 @@
   font-weight: bold;
 }
 
-/* Hamburger Styles (hidden by default) */
 .hamburger {
   display: none;
   flex-direction: column;
@@ -38,7 +36,6 @@
   display: block;
 }
 
-/* Mobile Styles */
 @media (max-width: 480px) {
   .nav-links {
     display: none;
