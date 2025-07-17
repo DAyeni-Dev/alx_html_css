@@ -83,16 +83,24 @@ html
 Copy
 Edit
 <li class="logo">&#9881;</li>
-🔗 Files
+Files
 File	Description
 index.html	Main webpage layout
 tweets.html	Supplementary content page
 base.css	Provided base styles and reset defaults
 styles.css	Custom layout and aesthetic styling
 
-
-
-📌 Author; Damilola Ayeni
+##  Author
+**Oluwadamilola Ayeni**  
+Aspiring Front-End Developer | QA Professional | Problem Solver  
+[Twitter](https://x.com/OraJacob7?t=YPfW_WCnmFa4LXjMeyyHag&s=08)  
+[Instagram](https://www.instagram.com/yourfavoritearewa_yorubababe?igsh=MTd1NWM3bWxmZzhkYw==)  
+[Facebook](https://www.facebook.com/share/14pdpQh8ND/)  
+[LinkedIn](https://www.linkedin.com/in/damilola-rachael-ayeni-631b2618b)  
+[GitHub](https://github.com/DAyeni-Dev)  
+ oluwadamilolaayeni321@gmail.com  
+ 0805 237 4966  
+ 0907 913 9920
 
 This project was completed as part of the ALX Front-End Curriculum.
 
